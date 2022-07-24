@@ -1,0 +1,89 @@
+.wrapper {
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.header-top {
+    height: 40.5px;
+    width: 100%;
+    background-color: #131313;
+}
+.container {
+    width: 1200px;
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: flex-end;
+    padding: 0 15px;
+}
+.menu-top {
+    display: flex;
+    list-style: none;
+    color: #fff;
+    .language,
+    .location {
+        font-size: 14px;
+        padding-left: 10px;
+        padding-right: 15px;
+        color: #fff;
+    }
+}
+.list {
+    padding: 0 28px;
+    &:hover {
+        cursor: pointer;
+    }
+}
+.item-link {
+    display: flex;
+    align-items: center;
+    margin-top: 7px;
+}
+.menulanguage {
+    width: 143px;
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+.wrapperlanguage {
+    display: flex;
+    align-items: center;
+    padding: 8.2px 15px;
+    width: 100%;
+    padding-left: 15px;
+    &:hover {
+        background: #666;
+    }
+}
+.logolanguage {
+    height: 25px;
+    width: 25px;
+}
+.listlanguage {
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+.wrapperlocation {
+    display: flex;
+    align-items: center;
+    padding: 8.2px 15px;
+    width: 100%;
+    padding-left: 15px;
+    &:hover {
+        background: #666;
+    }
+}
+.listlocation {
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+.namelocation {
+    padding-left: 10px;
+    padding-right: 15px;
+}
+.menulocation {
+    width: 143px;
+    background-color: rgba(0, 0, 0, 0.95);
+}

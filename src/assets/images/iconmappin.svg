@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="52" viewBox="0 0 46 52">
+    <defs>
+        <filter id="Path_2414" width="46" height="52" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-color="#131313" flood-opacity=".2"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Icon_map-pin" transform="translate(5 5)">
+        <path id="Rectangle_640" fill="none" d="M0 0H36V36H0z" data-name="Rectangle 640"/>
+        <g id="map-pin" transform="translate(4.5 1.5)">
+            <g filter="url(#Path_2414)" transform="translate(-9.5 -6.5)">
+                <path id="Path_2414-2" fill="#900" stroke="#900" stroke-linecap="round" stroke-linejoin="round" d="M30 14.5C30 25 16.5 34 16.5 34S3 25 3 14.5a13.5 13.5 0 1 1 27 0z" data-name="Path 2414" transform="translate(6.5 5.5)"/>
+            </g>
+            <g id="dollar" transform="translate(3.5 3.5)">
+                <g id="Group_2663" data-name="Group 2663">
+                    <path id="Path_3551" fill="#fff" d="M10 0a10 10 0 1 0 10 10A10 10 0 0 0 10 0zm.625 14.325V15a.625.625 0 0 1-1.25 0v-.677a3.324 3.324 0 0 1-1.665-.755.625.625 0 0 1 .83-.935 2.218 2.218 0 0 0 1.46.493c1.016 0 1.875-.573 1.875-1.25s-.859-1.25-1.875-1.25c-1.722 0-3.125-1.121-3.125-2.5a2.719 2.719 0 0 1 2.5-2.45V5a.625.625 0 0 1 1.25 0v.677a3.324 3.324 0 0 1 1.665.755.625.625 0 1 1-.83.935A2.218 2.218 0 0 0 10 6.875c-1.016 0-1.875.573-1.875 1.25s.859 1.25 1.875 1.25c1.724 0 3.125 1.121 3.125 2.5a2.719 2.719 0 0 1-2.5 2.45z" data-name="Path 3551"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

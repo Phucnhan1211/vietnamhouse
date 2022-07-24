@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.414" height="13.207" viewBox="0 0 11.414 13.207">
+    <defs>
+        <style>
+            .prefix__cls-1 {
+                fill: none;
+                stroke: #fff;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+        </style>
+    </defs>
+    <g id="prefix__chevrons-up" transform="translate(-6.293 -5.5)">
+        <path id="prefix__Path_2401" d="M17 11l-5-5-5 5" class="prefix__cls-1" data-name="Path 2401" />
+        <path id="prefix__Path_2402" d="M17 18l-5-5-5 5" class="prefix__cls-1" data-name="Path 2402" />
+    </g>
+</svg>

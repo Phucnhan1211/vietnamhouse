@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8.2px 15px;
+    width: 100%;
+    padding-left: 0;
+    &:hover {
+        background: #666;
+    }
+}
+.logoen {
+    height: 25px;
+    width: 25px;
+}
+.nameen {
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 15px;
+}

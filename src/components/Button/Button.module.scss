@@ -1,0 +1,45 @@
+.wrapper {
+    font-size: 16px;
+    font-weight: 300;
+    width: 131px;
+    height: 42px;
+    padding: 9px 24px;
+    border-radius: 21px;
+    border: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.icon + .title,
+.title + .icon {
+    margin: 12px;
+}
+
+.text {
+    background-color: #d8d8d8;
+    border: 1px solid #d8d8d8;
+    color: #000;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+        color: #000;
+        background-color: #dee2e6;
+        border: 1px solid #dee2e6;
+    }
+}
+.primary {
+    border-radius: 24px;
+    background-color: #900;
+    color: #fff;
+    width: 100%;
+    border: 1px solid #900;
+    transition: all 0.7s;
+    &:hover {
+        opacity: 0.8;
+    }
+}
+.large {
+    width: 180px;
+    height: 42px;
+    padding: 9px 47px;
+    margin-right: 24px;
+}
